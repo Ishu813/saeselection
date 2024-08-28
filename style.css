@@ -50,9 +50,10 @@
     position: absolute;
     top: 175px;
     font-size: 100px;
-    width: 584px;
+    width: 1000px;
     color: white;
     font-weight: 400;
+    text-align: center;
 }
 #para {
     position: absolute;
