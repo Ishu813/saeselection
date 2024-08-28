@@ -9,6 +9,7 @@
     background-color: #1B1A1B;
     display: flex;
     position: absolute;
+    justify-content: center;
 }
 #logo {
     height: 78.45px;
@@ -24,7 +25,7 @@
     top: 38px;
     left: 559px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .text {
     font-size: 20px;
@@ -47,17 +48,15 @@
 }
 #heading {
     position: absolute;
-    left: 668px;
     top: 175px;
     font-size: 100px;
-    width: 600px;
+    width: 584px;
     color: white;
     font-weight: 400;
 }
 #para {
     position: absolute;
     top: 338px;
-    left: 278px;
     width: 1346px;
     font-size: 25px;
     text-align: center;
